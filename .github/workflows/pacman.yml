@@ -18,14 +18,13 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Minsu-Agrahari
-          theme: github-dark
-          background: "#0d1117"
-          wall_color: "#58a6ff"
-          food_color: "#f2cc60"
-          pacman_color: "#ffd700"
-          ghost_color: "#ff4d6d"
+          svg_out_path: dist/pacman-contribution-graph-dark.svg
 
-      - name: Push Pacman Graph
+      - name: Add Dark Background
+        run: |
+          sed -i 's/<svg/<svg style="background:#0d1117"/' dist/pacman-contribution-graph-dark.svg
+
+      - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
