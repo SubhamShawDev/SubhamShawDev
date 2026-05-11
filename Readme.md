@@ -14,10 +14,17 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=minsu-agrahari&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=minsu-agrahari&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
-<img src="https://img.shields.io/github/followers/Minsu-Agrahari?logo=github&style=for-the-badge" alt="followers" />
+<img src="https://img.shields.io/github/followers/Minsu-Agrahari?logo=github&style=for-the-badge" alt="followers" /> -->
 
+![Frontend](https://img.shields.io/badge/frontend-react-61DAFB)
+
+![Backend](https://img.shields.io/badge/backend-nodejs-339933)
+
+![Database](https://img.shields.io/badge/database-mongodb-47A248)
+
+<br>
 <img src="https://img.shields.io/github/stars/Minsu-Agrahari?logo=github&style=for-the-badge" alt="stars" />
 
 </div>
@@ -75,7 +82,10 @@ style="border-radius:15px;" />
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,postgres,java,docker,git,github,redux,firebase,postman,vscode&perline=7" />
+<!-- <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,postgres,java,docker,git,github,redux,firebase,postman,vscode&perline=7" /> -->
+
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,tailwind,nodejs,express,mongodb,mysql,postgres,java,docker,git,github,postman,vscode&theme=dark&perline=7" />
 
 </div>
 
@@ -177,6 +187,31 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minsu-Agraha
 </div>
 
 
+---
+![Currently](https://img.shields.io/badge/currently-online-brightgreen)
+
+![Playing](https://img.shields.io/badge/playing-nothing-blue)
+
+![Coding](https://img.shields.io/badge/coding-react_native-1f6feb)
+
+![Listening](https://img.shields.io/badge/listening-lofi_music-success)
+
+![Frontend](https://img.shields.io/badge/frontend-react-61DAFB)
+
+![Backend](https://img.shields.io/badge/backend-nodejs-339933)
+
+![Database](https://img.shields.io/badge/database-mongodb-47A248)
+
+![Frontend](https://img.shields.io/badge/frontend-react-61DAFB)
+
+![Backend](https://img.shields.io/badge/backend-nodejs-339933)
+
+![Database](https://img.shields.io/badge/database-mongodb-47A248)
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
+
+
+---
 
 <!-- 
 <img align="right" alt="coding" width="350" 
@@ -196,3 +231,4 @@ src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <img align="right" alt="coding" width="350" 
 src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
  -->
+
