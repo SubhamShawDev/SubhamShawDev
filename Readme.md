@@ -142,6 +142,14 @@
 ---
 <div align="center">
 
+# 👾 Pacman Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Minsu-Agrahari/Minsu-Agrahari/output/pacman-contribution-graph.svg" alt="pacman contribution graph" />
+
+</div>
+
 ### 🚀 “Code. Build. Learn. Repeat.”
 
 </div>
