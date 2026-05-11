@@ -10,16 +10,17 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
-      - name: Generate Snake
+      - name: Generate Snake Game
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Minsu-Agrahari
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push Snake Animation
         uses: crazy-max/ghaction-github-pages@v4

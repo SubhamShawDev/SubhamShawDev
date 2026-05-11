@@ -139,7 +139,17 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Minsu-Agrahari/Minsu-Agrahari/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Minsu-Agrahari/Minsu-Agrahari/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+# 🟡 Pacman Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Minsu-Agrahari/Minsu-Agrahari/output/pacman-contribution-graph.svg" />
 
 </div>
 
