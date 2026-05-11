@@ -82,6 +82,20 @@ src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 ---
 
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=minsu-agrahari&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" />
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=minsu-agrahari&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" />
+
+</div>
+
+---
+
 # 🔥 GitHub Streak
 
 <div align="center">
