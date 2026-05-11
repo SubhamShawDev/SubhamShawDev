@@ -42,6 +42,34 @@ src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 ---
 
+# 💫 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+- 🔭 Currently building **Full Stack Applications**
+- 🌱 Learning **React Native, System Design & Backend Scaling**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, JavaScript, Node.js & Full Stack Development**
+- ⚡ Fun Fact: **I love building beautiful UI & scalable backend systems**
+- 📫 Reach me at: **cmminsuagrahari@gmail.com**
+
+</td>
+
+<td width="40%" align="center">
+
+<img 
+src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif"
+width="320"
+style="border-radius:15px;" />
+
+</td>
+</tr>
+</table>
+
+---
+
 # 🌐 Connect With Me
 
 <p align="center">
@@ -74,23 +102,11 @@ src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Minsu-Agrahari&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minsu-Agrahari&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Minsu-Agrahari&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=minsu-agrahari&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" />
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=minsu-agrahari&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" />
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minsu-Agrahari&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8&cache_seconds=1800"/>
 
 </div>
 
