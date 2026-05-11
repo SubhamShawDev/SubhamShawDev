@@ -134,16 +134,15 @@
 </div>
 
 ---
-
 # 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Minsu-Agrahari/Minsu-Agrahari/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Minsu-Agrahari/Minsu-Agrahari/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+</div>
 
 ---
-
-<div align="center">
 
 # 👾 Pacman Contribution Graph
 
@@ -152,6 +151,7 @@
 <img src="https://raw.githubusercontent.com/Minsu-Agrahari/Minsu-Agrahari/output/pacman-contribution-graph.svg" alt="pacman contribution graph" />
 
 </div>
+
 ---
 
 # 🧩 Tetris Contribution Graph
@@ -161,7 +161,10 @@
 <img src="https://raw.githubusercontent.com/Minsu-Agrahari/Minsu-Agrahari/output/profile-night-rainbow.svg" width="100%" />
 
 </div>
+
 ---
+
+<div align="center">
 
 ### 🚀 “Code. Build. Learn. Repeat.”
 
