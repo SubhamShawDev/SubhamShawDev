@@ -112,7 +112,7 @@ src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 ---
 
-# 🚀 Featured Projects
+<!-- # 🚀 Featured Projects
 
 <div align="center">
 
@@ -124,7 +124,7 @@ src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Minsu-Agrahari&repo=YOUR_SECOND_REPO&theme=tokyonight&hide_border=true" />
 </a>
 
-</div>
+</div> -->
 
 ---
 
