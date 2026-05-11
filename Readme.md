@@ -17,7 +17,7 @@
 <!-- <img src="https://komarev.com/ghpvc/?username=minsu-agrahari&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 <img src="https://img.shields.io/github/followers/Minsu-Agrahari?logo=github&style=for-the-badge" alt="followers" /> -->
 
-![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)      ![Backend](https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)                                     ![Database](https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Frontend](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react&logoColor=white)      ![Backend](https://img.shields.io/badge/Backend-Node.js-yellow?style=for-the-badge&logo=node.js&logoColor=white)                                     ![Database](https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 
