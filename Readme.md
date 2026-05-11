@@ -135,6 +135,15 @@
 
 ---
 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Minsu-Agrahari/Minsu-Agrahari/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
 <div align="center">
 
 ### 🚀 “Code. Build. Learn. Repeat.”
