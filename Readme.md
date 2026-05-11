@@ -15,10 +15,11 @@
 <div align="center">
 
 <!-- <img src="https://komarev.com/ghpvc/?username=minsu-agrahari&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-
 <img src="https://img.shields.io/github/followers/Minsu-Agrahari?logo=github&style=for-the-badge" alt="followers" /> -->
 
-![Frontend](https://img.shields.io/badge/frontend-react-blue) ![Backend](https://img.shields.io/badge/backend-nodejs-339933) ![Database](https://img.shields.io/badge/database-mongodb-yellow)
+![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)      ![Backend](https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)                                     ![Database](https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
 
 
 <!-- <img src="https://img.shields.io/github/stars/Minsu-Agrahari?logo=github&style=for-the-badge" alt="stars" /> -->
@@ -62,11 +63,9 @@ style="border-radius:15px;" />
 <a href="https://twitter.com/minsuagrahari" target="blank">
 <img src="https://skillicons.dev/icons?i=twitter" height="50" />
 </a>
-
 <a href="https://www.linkedin.com/in/minsu-agrahari/" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
-
 <a href="https://github.com/Minsu-Agrahari" target="blank">
 <img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
