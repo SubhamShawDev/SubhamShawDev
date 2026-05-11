@@ -28,6 +28,9 @@
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+<img align="right" alt="coding" width="350" 
+src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
+
 - 🔭 Currently building **Full Stack Applications**
 - 🌱 Learning **React Native, System Design & Backend Scaling**
 - 👯 Looking to collaborate on **Open Source Projects**
@@ -159,3 +162,24 @@
 ### 🚀 “Code. Build. Learn. Repeat.”
 
 </div>
+
+
+
+
+<img align="right" alt="coding" width="350" 
+src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
+<img align="right" alt="coding" width="350" 
+src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+<img align="right" alt="coding" width="350" 
+src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+
+<img align="right" alt="coding" width="350" 
+src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+
+
+
+<img align="right" alt="coding" width="350" 
+src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
