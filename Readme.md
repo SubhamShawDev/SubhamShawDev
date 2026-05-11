@@ -18,14 +18,10 @@
 
 <img src="https://img.shields.io/github/followers/Minsu-Agrahari?logo=github&style=for-the-badge" alt="followers" /> -->
 
-![Frontend](https://img.shields.io/badge/frontend-react-61DAFB)
+![Frontend](https://img.shields.io/badge/frontend-react-blue) ![Backend](https://img.shields.io/badge/backend-nodejs-339933) ![Database](https://img.shields.io/badge/database-mongodb-yellow)
 
-![Backend](https://img.shields.io/badge/backend-nodejs-339933)
 
-![Database](https://img.shields.io/badge/database-mongodb-47A248)
-
-<br>
-<img src="https://img.shields.io/github/stars/Minsu-Agrahari?logo=github&style=for-the-badge" alt="stars" />
+<!-- <img src="https://img.shields.io/github/stars/Minsu-Agrahari?logo=github&style=for-the-badge" alt="stars" /> -->
 
 </div>
 
