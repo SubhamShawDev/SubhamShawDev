@@ -24,23 +24,6 @@
 
 ---
 
-# 💫 About Me
-
-<!-- <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
-
-<img align="right" alt="coding" width="350" 
-src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
-
-- 🔭 Currently building **Full Stack Applications**
-- 🌱 Learning **React Native, System Design & Backend Scaling**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, JavaScript, Node.js & Full Stack Development**
-- ⚡ Fun Fact: **I love building beautiful UI & scalable backend systems**
-- 📫 Reach me at: **cmminsuagrahari@gmail.com**
-
-<br><br>
-
----
 
 # 💫 About Me
 
