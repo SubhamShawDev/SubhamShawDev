@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<!-- <img src="https://komarev.com/ghpvc/?username=minsu-agrahari&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" /> -->
+<img src="https://komarev.com/ghpvc/?username=minsu-agrahari&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
 <img src="https://img.shields.io/github/followers/Minsu-Agrahari?logo=github&style=for-the-badge" alt="followers" />
 
@@ -26,7 +26,7 @@
 
 # 💫 About Me
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<!-- <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
 
 <img align="right" alt="coding" width="350" 
 src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
